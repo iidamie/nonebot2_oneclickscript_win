@@ -3,7 +3,7 @@
 ## 要求
 
 - Python `3.10.x`（安装时记得勾选 `Add Python 3.10 to PATH` !!!）
-- 安装文件已放在目录里，根据系统位数选择
+- [Python推荐下载链接](https://registry.npmmirror.com/binary.html?path=python/3.10.9/)在这里根据自己的系统版本下载（64位系统对应amd64,32位系统无对应）
 
 ## 如何使用
 
