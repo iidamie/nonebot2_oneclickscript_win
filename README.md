@@ -11,7 +11,7 @@
 2. 运行 `#配置环境.bat` ，按照指引即可
 3. 然后打开 `go-cqhttp` 文件夹，修改目录内 `config.yml` 的账号相关内容
 4. 修改好后运行 `go-cqhttp.bat` ，按照指引登录账号
-- 如果无法登录账号，[点击我](https://docs.qq.com/doc/DQ3lmbkVUTkhiUWxM?&u=dc6ddf501e234007b2b1f2efea165532)查看解决办法
+- 如果无法登录账号，[点击这里](https://docs.qq.com/doc/DQ3lmbkVUTkhiUWxM?&u=dc6ddf501e234007b2b1f2efea165532)查看解决办法
 6. 完成以上步骤之后，运行 `#启动.bat` ，你的 Bot 就成功运行了！
 - 试试向 Bot 发送指令 `ping` ，如果 Bot 回复了就代表配置没有问题啦~
 ## 进阶使用
