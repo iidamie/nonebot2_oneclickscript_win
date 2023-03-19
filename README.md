@@ -1,0 +1,1 @@
+# nonebot2_oneclickscript_win
