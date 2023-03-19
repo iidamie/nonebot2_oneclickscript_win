@@ -1,13 +1,9 @@
 # NoneBot2 Windows 一键部署脚本
 
-## 要求
-
-- Python `3.10.x`（安装时记得勾选 `Add Python 3.10 to PATH` !!!）
-
 ## 如何使用
 
 1. [点击这里](https://github.com/iidamie/nonebot2_oneclickscript_win/releases)根据自己的系统下载对应版本
-1. 解压压缩包，运行 `python-3.10.9.exe` 安装Python
+1. 解压压缩包，运行 `python-3.10.9.exe` 安装Python（安装时记得勾选 `Add Python 3.10 to PATH` !!!）
 2. 运行 `#配置环境.bat` ，按照指引即可
 3. 然后打开 `go-cqhttp` 文件夹，修改目录内 `config.yml` 的账号相关内容
 4. 修改好后运行 `go-cqhttp.bat` ，按照指引登录账号
