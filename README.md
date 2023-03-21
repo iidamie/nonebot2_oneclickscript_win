@@ -1,4 +1,5 @@
 # NoneBot2 Windows 一键部署脚本
+>基于[lgc2333](https://github.com/lgc2333)的[nonebot2-oneclick-win](https://github.com/lgc2333/nonebot2-oneclick-win)修改而来
 
 ## 如何使用
 
