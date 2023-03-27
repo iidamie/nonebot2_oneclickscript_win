@@ -3,7 +3,12 @@
 
 ## 如何使用
 
-1. [点击这里](https://gitee.com/xmm091211/nonebot2_oneclickscript_win/releases)根据自己的系统下载对应版本
+### 视频教程
+[点击这里查看视频](https://www.bilibili.com/video/BV1Qc411L7JN/?share_source=copy_web&vd_source=7ac3eff34b5a1ef1dc8032858897c680)
+>本视频由[yhgzs-111](https://github.com/yhgzs-111/)提供
+
+### 文字教程
+1. [点击这里](https://github.com/iidamie/nonebot2_oneclickscript_win/releases)根据自己的系统下载对应版本
 1. 解压压缩包，运行 `python-3.10.9.exe` 安装Python（安装时记得勾选 `Add Python 3.10 to PATH` !!!）
 2. 运行 `#配置环境.bat` ，按照指引即可
 3. 然后打开 `go-cqhttp` 文件夹，修改目录内 `config.yml` 的账号相关内容
