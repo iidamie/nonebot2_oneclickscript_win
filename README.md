@@ -8,13 +8,11 @@
 >本视频由[yhgzs-111](https://github.com/yhgzs-111/)提供
 
 ### 文字教程
-1. [点击这里](https://github.com/iidamie/nonebot2_oneclickscript_win/releases)根据自己的系统下载对应版本
+1. [点击这里](https://gitee.com/xmm091211/nonebot2_oneclickscript_win/releases/latest)根据自己的系统下载对应版本
 1. 解压压缩包，运行 `python-3.10.9.exe` 安装Python（安装时记得勾选 `Add Python 3.10 to PATH` !!!）
 2. 运行 `#配置环境.bat` ，按照指引即可
-3. 然后打开 `go-cqhttp` 文件夹，修改目录内 `config.yml` 的账号相关内容
-4. 修改好后运行 `go-cqhttp.bat` ，按照指引登录账号
 - 如果无法登录账号，[点击这里](https://docs.qq.com/doc/DQ3lmbkVUTkhiUWxM?&u=dc6ddf501e234007b2b1f2efea165532)查看解决办法
-6. 完成以上步骤之后，运行 `#启动.bat` ，你的 Bot 就成功运行了！
+6. 以后只需运行 `#启动.bat` ，你的 Bot 就成功运行了！
 - 试试向 Bot 发送指令 `ping` ，如果 Bot 回复了就代表配置没有问题啦~
 ## 进阶使用
 
