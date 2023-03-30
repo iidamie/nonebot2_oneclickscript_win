@@ -9,10 +9,9 @@
 
 ### 文字教程
 1. [点击这里](https://gitee.com/xmm091211/nonebot2_oneclickscript_win/releases/latest)根据自己的系统下载对应版本
-1. 解压压缩包，运行 `python-3.10.9.exe` 安装Python（安装时记得勾选 `Add Python 3.10 to PATH` !!!）
 2. 运行 `#配置环境.bat` ，按照指引即可
 - 如果无法登录账号，[点击这里](https://docs.qq.com/doc/DQ3lmbkVUTkhiUWxM?&u=dc6ddf501e234007b2b1f2efea165532)查看解决办法
-6. 以后只需运行 `#启动.bat` ，你的 Bot 就成功运行了！
+3. 以后只需运行 `#启动.bat` ，你的 Bot 就成功运行了！
 - 试试向 Bot 发送指令 `ping` ，如果 Bot 回复了就代表配置没有问题啦~
 ## 进阶使用
 
